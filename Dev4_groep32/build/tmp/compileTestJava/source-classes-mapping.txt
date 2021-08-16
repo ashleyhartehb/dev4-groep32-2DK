@@ -1,4 +1,6 @@
-FoodTest.java
- FoodTest
 DeliveryTest.java
  DeliveryTest
+FoodTest.java
+ FoodTest
+CommandTest.java
+ CommandTest

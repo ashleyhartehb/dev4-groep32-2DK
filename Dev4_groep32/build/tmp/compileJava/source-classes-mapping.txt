@@ -2,25 +2,35 @@ Model/DriveWithCaution.java
  Model.DriveWithCaution
 Model/Sauce.java
  Model.Sauce
+Model/BikeDeliveryGuy.java
+ Model.BikeDeliveryGuy
 Model/Meat.java
  Model.Meat
 Model/OnRouteToCollectDelivery.java
  Model.OnRouteToCollectDelivery
+Model/Command.java
+ Model.Command
 Model/Vegetables.java
  Model.Vegetables
 Model/DriveBehavior.java
  Model.DriveBehavior
+Model/DriveReckless.java
+ Model.DriveReckless
+Model/DeliveryGuy.java
+ Model.DeliveryGuy
+Model/ToppingSelection.java
+ Model.ToppingSelection
 Model/TypeofFood.java
  Model.TypeofFood
 Model/DriveWithoutDelivery.java
  Model.DriveWithoutDelivery
 Model/Food.java
  Model.Food
-Model/DriveReckless.java
- Model.DriveReckless
-Model/BikeDeliveryGuy.java
- Model.BikeDeliveryGuy
-Model/ToppingSelection.java
- Model.ToppingSelection
-Model/DeliveryGuy.java
- Model.DeliveryGuy
+Model/AddCommand.java
+ Model.AddCommand
+Model/SubtractCommand.java
+ Model.SubtractCommand
+Model/Calculate.java
+ Model.Calculate
+Model/CommandsController.java
+ Model.CommandsController
