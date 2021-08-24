@@ -23,26 +23,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="811dae58-6072-433d-b3bb-dd5037c1d15a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dev4_groep32/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dev4_groep32/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dev4_groep32/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dev4_groep32/src/main/java/Model/AddCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dev4_groep32/src/main/java/Model/Calculate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dev4_groep32/src/main/java/Model/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dev4_groep32/src/main/java/Model/CommandsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dev4_groep32/src/main/java/Model/SubtractCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dev4_groep32/src/test/java/CommandTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dev4_groep32/Javascript/User.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dev4_groep32/build/classes/java/test/FoodTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Dev4_groep32/build/classes/java/test/FoodTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dev4_groep32/build/reports/tests/test/classes/DeliveryTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dev4_groep32/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Dev4_groep32/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dev4_groep32/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/Dev4_groep32/build/reports/tests/test/packages/default-package.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dev4_groep32/build/test-results/test/TEST-DeliveryTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dev4_groep32/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Dev4_groep32/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dev4_groep32/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/Dev4_groep32/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dev4_groep32/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Dev4_groep32/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dev4_groep32/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Dev4_groep32/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dev4_groep32/build/tmp/compileTestJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Dev4_groep32/build/tmp/compileTestJava/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev4_groep32/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Dev4_groep32/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev4_groep32/Javascript/Command.js" beforeDir="false" afterPath="$PROJECT_DIR$/Dev4_groep32/Javascript/Command.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev4_groep32/Javascript/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Dev4_groep32/Javascript/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,5 +97,9 @@
       <screen x="1280" y="25" width="1360" height="743" />
     </state>
     <state x="1280" y="25" width="1024" height="743" key="SettingsEditor/0.25.1280.775/1280.25.1360.743@1280.25.1360.743" timestamp="1629043168863" />
+    <state x="1553" y="136" key="Vcs.Push.Dialog.v2" timestamp="1629134006457">
+      <screen x="1280" y="25" width="1360" height="743" />
+    </state>
+    <state x="1553" y="136" key="Vcs.Push.Dialog.v2/0.25.1280.775/1280.25.1360.743@1280.25.1360.743" timestamp="1629134006457" />
   </component>
 </project>
