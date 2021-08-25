@@ -8,12 +8,12 @@ public class CommandTest {
         //double price = food.Price();
         CommandsController controller = new CommandsController();
 
-        double price = 10.50;
 
-        controller.addButtonWasPushed(price);
+        controller.addButtonWasPushed(10.50);
         controller.undoButtonWasPushed();
-        controller.addButtonWasPushed(price);
-        controller.subtractButtonWasPushed(price);
+        controller.addButtonWasPushed(25.45);
+        controller.addButtonWasPushed(6.00);
+        controller.subtractButtonWasPushed(3.00);
         controller.undoButtonWasPushed();
 
     }

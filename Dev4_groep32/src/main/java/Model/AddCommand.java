@@ -16,12 +16,10 @@ public class AddCommand implements Command {
     @Override
     public void execute() {
         calculate.add(price);
-        System.out.println("You just added €"+ price);
     }
 
     public void undo() {
         calculate.subtract(price);
-        System.out.println("You just subtracted €"+ price);
 
     }
 

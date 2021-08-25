@@ -15,12 +15,10 @@ public class SubtractCommand implements Command {
     @Override
     public void execute() {
         calculate.subtract(price);
-        System.out.println("You just subtracted €"+ price);
     }
 
     public void undo() {
         calculate.add(price);
-        System.out.println("You just added €"+ price);
     }
 
 }
