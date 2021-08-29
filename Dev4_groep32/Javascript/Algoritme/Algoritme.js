@@ -1,3 +1,5 @@
+//Code by Michalis Van Steen
+
 //Quick sort algoritme
 // Sorteren van bestellingen gebaseerd op hun totaalprijs
 

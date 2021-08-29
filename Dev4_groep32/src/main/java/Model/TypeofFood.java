@@ -1,3 +1,4 @@
+//Code by Michalis Van Steen
 package Model;
 
 public class TypeofFood extends Model.Food {
