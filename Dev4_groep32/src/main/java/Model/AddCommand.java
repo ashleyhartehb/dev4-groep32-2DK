@@ -6,7 +6,7 @@ public class AddCommand implements Command {
 
     private Calculate calculate;
     Food food;
-    private double price;     //= food.Price();
+    private double price;     
 
     public AddCommand(Calculate calculate, double price) {
 

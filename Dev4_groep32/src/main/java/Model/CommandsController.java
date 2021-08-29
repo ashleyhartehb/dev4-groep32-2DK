@@ -22,11 +22,9 @@ public class CommandsController {
         if(commands == null){
             commands = new Command[1];
             commands[0] = addCommand;
-            //System.out.println("You just added something to the commands");
         }else{
             commands = new Command[length];
             commands[length-1] = addCommand;
-            //System.out.println("Commands wasn't empty");
         }
         return commands;
     }

@@ -6,7 +6,7 @@ public class SubtractCommand implements Command {
 
     private Calculate calculate;
     Food food;
-    private double price;     //= food.Price();
+    private double price;    
 
 
     public SubtractCommand(Calculate calculate, double price) {
